@@ -73,6 +73,11 @@ a:hover {
     transform: scale(1.5);
 }
 
+.about-us {
+    padding: 10vh 0;
+    text-align: center;
+}
+
 footer {
     background-color: black;
     padding-top: 20px;
